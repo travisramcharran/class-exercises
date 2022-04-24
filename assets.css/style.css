@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+ body {
+     color: lightgray;
+ }
+
+.subheader {
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    text-align: center;
+    border: 2px solid black;
+    width: 500px;
+}
